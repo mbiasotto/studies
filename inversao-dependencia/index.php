@@ -5,24 +5,24 @@ interface PaymentInterface
     public function pay();
 }
 
-class Paypal implements PaymentInterface{
-
+class Paypal implements PaymentInterface
+{
     public function pay()
     {
         return 'Pay with Paypal';
     }
 }
 
-class PagSeguro implements PaymentInterface{
-
+class PagSeguro implements PaymentInterface
+{
     public function pay()
     {
         return 'Pay with Pag Seguro';
     }
 }
 
-class MercadoLivre implements PaymentInterface{
-
+class MercadoLivre implements PaymentInterface
+{
     public function pay()
     {
         return 'Pay with Mercado Livre';
