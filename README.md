@@ -3,7 +3,7 @@
 
 <h2 align="left">LIST</h2>
 <ul>
-  <li><b>Dependency Inversion in PHP</b></li>
+  <li><b>Dependency Inversion in PHP (interface)</b></li>
 </ul>
 
 <BR><BR>
