@@ -53,7 +53,7 @@ class Payment
     }
 }
 
-  
+
 
 $payment = new Payment;
 
